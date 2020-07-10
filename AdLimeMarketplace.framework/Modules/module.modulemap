@@ -1,0 +1,6 @@
+framework module AdLimeMarketplace {
+  umbrella header "AdLimeMarketplace.h"
+
+  export *
+  module * { export * }
+}
